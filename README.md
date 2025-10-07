@@ -1,7 +1,7 @@
 # IT-254---First-model-ReadMe
 Description for the first model of the IT 254 group project before the first model is officially due.
 
-## Main Idea## 
+## Main Idea ## 
 Our main idea for this project was to make a study assistant tool. We intend to implement a buzzer to redirect the user when they lose focus (eventually being changed to motivational messages created by OpenAI's API and made into auditory feedback with a speaker), a camera to see the user and determine if they are beign distracted by something other than the work (eventually wanting to be able to distinguish between people passing by or people other than the users), and a timer to count down the time left in the study session. 
 
 ## Intent of Use ##
