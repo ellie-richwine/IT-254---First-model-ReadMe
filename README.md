@@ -12,3 +12,6 @@ To be able to make this model work, you need an Arduino board, a computer with p
 
 ## First Model ##
 This first model is mainly focused on creating and training the model through Google Teachable. This took up the brunt of the assignment so far, but we also have python and Arduino code made to be able to test and run the code through the Arduino to be able to see the results. We want to be able to see if it can buzz when facing away from the camera. From here we also intend to be able to allow the user to set a timer for the study session and messages developed from OpenAi's API.
+
+## Project Progress Video ## 
+https://youtube.com/shorts/cJUrmoaCzoc?si=U_-MR08Kz2FYQe60 
