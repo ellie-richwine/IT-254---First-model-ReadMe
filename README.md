@@ -15,3 +15,7 @@ This first model is mainly focused on creating and training the model through Go
 
 ## Project Progress Video ## 
 https://youtube.com/shorts/cJUrmoaCzoc?si=U_-MR08Kz2FYQe60 
+
+
+## Final Words## 
+Overall, I was very happy with how this project ended up! I really liked the idea we had and I think the team really made the idea come to life! I did most of the documentation stuff and keeping stuff organized in the github as well as making sure the team was on top of what they were supposed to do. I think I knew a this project in and out and I think the coding was really the biggest problem area for me. But Chris was very helpful and patient with me and helped me understand what was happening in each line of the code! We worked together very well and all did our dedicated part and I think the final model for the time that we were given was exactly what we were picturing when we drafted the idea! 
